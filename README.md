@@ -1,12 +1,12 @@
 # OOP (Object-Oriented Programming)
 
-# Students' Background
+<h3> Students' Background </h3>
 <ul>
   <li> Basic programming skills </li>
   <li> Basic knowledge of Java, knowing the basic programming elements, writing a class </li>
 </ul>
 
-# Structure of the Repo
+<h3? Structure of the Repo </h3>
 
 You are going to find a folder named Materials. The folder consists of the following:
 
