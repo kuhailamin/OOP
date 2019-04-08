@@ -17,3 +17,7 @@ You are going to find a folder named Materials. The folder consists of the follo
   <li> Lesson Plan: the lesson plan that contains a step-by-step plan for how to teach the lesson </li>
   <li> source code: the .java files used in this class  </li>
   </ol>
+  
+  <h3> Images and Drawings Used in Curriculum and Slides </h3>
+  
+  <p> All the images are taken from PowerPoint Images and Pixabay (which is a website that provides free images that can be used for commercial and non-commerical products. The drawings and diagrams are my own design </p>
