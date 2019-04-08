@@ -1,5 +1,7 @@
 # OOP (Object-Oriented Programming)
 
+<p> The course introduces the students to the basic principles of Object-Oriented Programming and Design in Java.  Further, students will learn how to write code for classes, objects, and association. </p>
+
 <h3> Students' Background </h3>
 <ul>
   <li> Basic programming skills </li>
