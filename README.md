@@ -6,7 +6,7 @@
   <li> Basic knowledge of Java, knowing the basic programming elements, writing a class </li>
 </ul>
 
-<h3? Structure of the Repo </h3>
+<h3> Structure of the Repo </h3>
 
 You are going to find a folder named Materials. The folder consists of the following:
 
