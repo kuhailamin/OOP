@@ -18,7 +18,7 @@ public abstract class BankAccount {
         this.balance = balance;
     }
 
-    public void deposit(double amount) {
+    public void ddeposit(double amount) {
         this.balance += amount;
     }
 
